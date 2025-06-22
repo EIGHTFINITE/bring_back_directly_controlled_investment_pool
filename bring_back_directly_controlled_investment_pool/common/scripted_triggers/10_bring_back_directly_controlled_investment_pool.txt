@@ -1,0 +1,3 @@
+﻿bring_back_directly_controlled_investment_pool = {
+	always = yes
+}
