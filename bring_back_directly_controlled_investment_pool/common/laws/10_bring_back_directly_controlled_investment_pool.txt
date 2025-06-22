@@ -16,6 +16,8 @@
 	}
 
 	modifier = {
+		country_custom_tooltip_fake_disable_investment_pool_bool = yes
+
 		state_shopkeepers_investment_pool_efficiency_mult = -0.5
 		state_capitalists_investment_pool_efficiency_mult = -0.5
 		state_farmers_investment_pool_efficiency_mult = -0.5
@@ -67,6 +69,8 @@ law_interventionism = {
 	}
 
 	modifier = {
+		country_custom_tooltip_fake_disable_investment_pool_bool = yes
+
 		country_disable_nationalization_without_compensation_bool = yes
 		country_private_construction_allocation_mult = 0.5
 		building_nationalization_investment_return_add = 0.5
@@ -136,6 +140,8 @@ law_agrarianism = {
 	}
 
 	modifier = {
+		country_custom_tooltip_fake_disable_investment_pool_bool = yes
+
 		state_aristocrats_investment_pool_efficiency_mult = 0.5
 		state_clergymen_investment_pool_efficiency_mult = 0.5
 		state_farmers_investment_pool_efficiency_mult = 0.5
@@ -268,6 +274,8 @@ law_industry_banned = {
 	}
 
 	modifier = {
+		country_custom_tooltip_fake_disable_investment_pool_bool = yes
+
 		building_group_bg_agriculture_throughput_add = 0.1
 		building_group_bg_plantations_throughput_add = 0.1
 		state_expected_sol_mult = -0.1
@@ -376,6 +384,8 @@ law_extraction_economy = {
 	}
 
 	modifier = {
+		country_custom_tooltip_fake_disable_investment_pool_bool = yes
+
 		building_group_bg_agriculture_throughput_add = 0.1
 		building_group_bg_plantations_throughput_add = 0.1
 		building_group_bg_extraction_throughput_add = 0.1
@@ -425,6 +435,8 @@ law_laissez_faire = {
 	}
 
 	modifier = {
+		country_custom_tooltip_fake_disable_investment_pool_bool = yes
+
 		country_loan_interest_rate_mult = -0.25
 		state_shopkeepers_investment_pool_efficiency_mult = 0.25
 		state_capitalists_investment_pool_efficiency_mult = 0.25
